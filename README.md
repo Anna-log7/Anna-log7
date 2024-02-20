@@ -7,4 +7,4 @@ I'm a Software Developer with 5 years of experience who enjoys learning and work
 - 💬 Ask me about any job opportunities
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/anna-d-b547ba199/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I use Arch btw
+- ⚡ Fun fact: I code using Neovim!

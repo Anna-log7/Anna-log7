@@ -1,6 +1,6 @@
 ### Hi there, I'm Anna 👋
 
-I'm a Software Developer with 5 years of experience who enjoys learning and working with new technologies! I mostly focus on front end development, but I have back end and database experience as well.
+I'm a Software Developer with 6 years of experience who enjoys learning and working with new technologies! My expertise is in front end development, but I have experience with back end as well.
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Rust
